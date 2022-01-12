@@ -27,4 +27,4 @@ To deploy the project compile it in the page and disable "warnings interrupt clo
 * **Camilo Sinning** - *Programmer* - [CamiloSinningUN](https://github.com/CamiloSinningUN)
 * **Eliana Velasquez** - *Documentation* -
 
-See also the list of [contributors](https://github.com/CamiloSinningUN/MyTime/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/CamiloSinningUN/Assembly-program/contributors) who participated in this project.
